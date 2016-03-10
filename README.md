@@ -2,7 +2,12 @@
 
 A simple browserify plugin to extract all your SASS resources and add them to an importable file for your project.
 
-Example:
+## Installation
+
+	$ npm install bundlify-scss
+
+
+## Example:
 
 **JavaScript** `public/javascripts/modules/my-module.js`
 
