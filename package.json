@@ -1,0 +1,26 @@
+{
+  "name": "bundlify-scss",
+  "version": "0.0.1",
+  "description": "SCSS browserify plugin for bundling sass resources to a single SCSS file",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelcomWeb/bundlify-scss.git"
+  },
+  "main": "./src/index.js",
+  "scripts": {},
+  "keywords": [
+    "browserify",
+    "sass",
+    "scss",
+    "browserify plugin"
+  ],
+  "author": "Björn Wikström, Welcom Web AB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WelcomWeb/bundlify-scss#issues"
+  },
+  "homepage": "https://github.com/WelcomWeb/bundlify-scss#readme",
+  "dependencies": {
+    "through": "^2.3.8"
+  }
+}
